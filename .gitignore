@@ -1,0 +1,5 @@
+Library/
+files/
+Logs/
+.vscode/
+*.apk
