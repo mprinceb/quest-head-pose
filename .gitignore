@@ -1,5 +1,6 @@
 Library/
 files/
 Logs/
+Temp/
 .vscode/
 *.apk
